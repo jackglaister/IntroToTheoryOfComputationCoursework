@@ -1,0 +1,19 @@
+Number of states: 6
+States: AxAyAzBxByBz
+Alphabet length: 2
+Alphabet: A B
+Ax-->Bz:a
+Ax-->Ay:b
+Ay-->Bz:a
+Ay-->Az:b
+Az-->By:a
+Az-->Az:b
+Bx-->Az:a
+Bx-->By:b
+By-->Az:a
+By-->Bz:b
+Bz-->Ay:a
+Bz-->Bz:b
+Start state: Ax
+Number of acceptance states: 2
+Acceptance states: Ax Ay 

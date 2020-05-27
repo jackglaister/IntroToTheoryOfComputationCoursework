@@ -1,0 +1,117 @@
+Number of states: 6
+States: AxAyAzBxByBz
+Alphabet length: 2
+Alphabet: A B
+Ax-->Bz:a
+Ax-->Ay:b
+Ay-->Bz:a
+Ay-->Az:b
+Az-->By:a
+Az-->Az:b
+Bx-->Az:a
+Bx-->By:b
+By-->Az:a
+By-->Bz:b
+Bz-->Ay:a
+Bz-->Bz:b
+Start state: Ax
+Number of acceptance states: 2
+Acceptance states: Bx By 
+Number of states: 6
+States: AxAyAzBxByBz
+Alphabet length: 2
+Alphabet: A B
+Ax-->Bz:a
+Ax-->Ay:b
+Ay-->Bz:a
+Ay-->Az:b
+Az-->By:a
+Az-->Az:b
+Bx-->Az:a
+Bx-->By:b
+By-->Az:a
+By-->Bz:b
+Bz-->Ay:a
+Bz-->Bz:b
+Start state: Ax
+Number of acceptance states: 2
+Acceptance states: Ax Ay 
+Number of states: 36
+States: AxAxAxAyAxAzAxBxAxByAxBzAyAxAyAyAyAzAyBxAyByAyBzAzAxAzAyAzAzAzBxAzByAzBzBxAxBxAyBxAzBxBxBxByBxBzByAxByAyByAzByBxByByByBzBzAxBzAyBzAzBzBxBzByBzBz
+Alphabet length: 2
+Alphabet: A B
+AxAx-->BzBz:a
+AxAx-->AyAy:b
+AxAy-->BzBz:a
+AxAy-->AyAz:b
+AxAz-->BzBy:a
+AxAz-->AyAz:b
+AxBx-->BzAz:a
+AxBx-->AyBy:b
+AxBy-->BzAz:a
+AxBy-->AyBz:b
+AxBz-->BzAy:a
+AxBz-->AyBz:b
+AyAx-->BzBz:a
+AyAx-->AzAy:b
+AyAy-->BzBz:a
+AyAy-->AzAz:b
+AyAz-->BzBy:a
+AyAz-->AzAz:b
+AyBx-->BzAz:a
+AyBx-->AzBy:b
+AyBy-->BzAz:a
+AyBy-->AzBz:b
+AyBz-->BzAy:a
+AyBz-->AzBz:b
+AzAx-->ByBz:a
+AzAx-->AzAy:b
+AzAy-->ByBz:a
+AzAy-->AzAz:b
+AzAz-->ByBy:a
+AzAz-->AzAz:b
+AzBx-->ByAz:a
+AzBx-->AzBy:b
+AzBy-->ByAz:a
+AzBy-->AzBz:b
+AzBz-->ByAy:a
+AzBz-->AzBz:b
+BxAx-->AzBz:a
+BxAx-->ByAy:b
+BxAy-->AzBz:a
+BxAy-->ByAz:b
+BxAz-->AzBy:a
+BxAz-->ByAz:b
+BxBx-->AzAz:a
+BxBx-->ByBy:b
+BxBy-->AzAz:a
+BxBy-->ByBz:b
+BxBz-->AzAy:a
+BxBz-->ByBz:b
+ByAx-->AzBz:a
+ByAx-->BzAy:b
+ByAy-->AzBz:a
+ByAy-->BzAz:b
+ByAz-->AzBy:a
+ByAz-->BzAz:b
+ByBx-->AzAz:a
+ByBx-->BzBy:b
+ByBy-->AzAz:a
+ByBy-->BzBz:b
+ByBz-->AzAy:a
+ByBz-->BzBz:b
+BzAx-->AyBz:a
+BzAx-->BzAy:b
+BzAy-->AyBz:a
+BzAy-->BzAz:b
+BzAz-->AyBy:a
+BzAz-->BzAz:b
+BzBx-->AyAz:a
+BzBx-->BzBy:b
+BzBy-->AyAz:a
+BzBy-->BzBz:b
+BzBz-->AyAy:a
+BzBz-->BzBz:b
+Start state: AxAx
+Number of acceptance states: 20
+Acceptance states: AxAx AxAy AyAx AyAy AzAx AzAy BxAx BxAy BxAz BxBx BxBy BxBz ByAx ByAy ByAz ByBx ByBy ByBz BzAx BzAy 
